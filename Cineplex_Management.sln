@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cineplex_Management", "Cineplex_Management\Cineplex_Management.csproj", "{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F8CF5E3-E5BB-45A2-A766-3E19AE58264F}
+	EndGlobalSection
+EndGlobal

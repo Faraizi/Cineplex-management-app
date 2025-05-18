@@ -1,0 +1,131 @@
+﻿@model Cineplex_Management.VM.HallVm
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+<h3>Seat Plan</h3>
+<div class="row">
+    <div class="col-md-3">
+        <input type="hidden" id="HallId" name="HallId" value="@Model.HallId" />
+        <input type="hidden" id="SeatPlans" name="SeatPlans" />
+        <input type="hidden" id="Seats" name="Seats" value="@Model.SeatPlans.Count" />
+        <div class="form-group">
+            <label class="control-label" for="HallName">HallName</label>
+            <input class="form-control" type="text" id="HallName" name="HallName" value="@Model.HallName" readonly>
+        </div>
+    </div>
+    <div class="col-md-3">
+
+        <div class="form-group">
+            <label class="control-label" for="Column">Column</label>
+            <input class="form-control" type="text" id="Column" name="Column" value="@Model.Column">
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="form-group">
+            <label class="control-label" for="Row">Row</label>
+            <input class="form-control" type="text" id="Row" name="Row" value="@Model.Row">
+        </div>
+    </div>
+    <div class="col-md-3">
+        <input type="button" value="Generate Seat" onclick="generateSit()">
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div id="screen" style="
+  background-color: lightgrey;
+  width: 95%;
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  ">
+            Screen
+        </div>
+        <table border="1" width="100%" id="sits" style="text-align:center"></table>
+        <input type="button" value="Save" onclick="editSit()"> <label id="isChange" style="display:none">Change</label>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Your code here
+        console.log("Document is ready!");
+        generateSit();
+    });
+
+    function generateSit(){
+       var HallId = document.getElementById('HallId').value;
+       var Column = document.getElementById('Column').value;
+       var Row = document.getElementById('Row').value;
+       var listSit = [];
+
+       var tb = '';
+       for(var r = 0; r<Row;r++){
+
+           var tr = '<tr>';
+           for(var c = 0; c<Column;c++){
+
+                let char = String.fromCharCode(65 + c); // returns 'A'
+
+                var rowNumber = 1 + r;
+                var SeatNumber = char + rowNumber;
+                var tds = '<td>'+SeatNumber+'</td>';
+                tr += tds;
+                listSit.push({
+                    HallId:HallId,
+                    SeatNumber:SeatNumber,
+                    Price:0,
+                    SeatPlanId:0,
+                    RowNumber:rowNumber
+                });
+
+
+           }
+           tr += '</tr>';
+           tb += tr;
+        }
+       console.log(listSit);
+       document.getElementById('SeatPlans').value = JSON.stringify(listSit);
+       document.getElementById('sits').innerHTML = tb;
+       var Seats = parseInt(document.getElementById('Seats').value);
+       if(Seats == listSit.length){
+           document.getElementById("isChange").style.display = "block";
+       }
+    }
+
+    function editSit(){
+       var HallId = document.getElementById('HallId').value;
+       var Column = document.getElementById('Column').value;
+       var Row = document.getElementById('Row').value;
+       var SeatPlans = JSON.parse(document.getElementById('SeatPlans').value);
+        $.ajax({
+        type: "POST",
+        url: "/Halls/EditSit", // controller/action
+        data: {
+            HallId: HallId,
+            Column: Column,
+            Row: Row,
+            SeatPlans: SeatPlans,
+        },
+        success: function (response) {
+            console.log(response.message);
+            alert(response.message);
+        },
+        error: function () {
+            alert("Error calling controller");
+        }
+        });
+    }
+
+
+
+</script>
+

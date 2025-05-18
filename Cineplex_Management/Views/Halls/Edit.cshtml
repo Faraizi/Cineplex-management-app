@@ -1,0 +1,139 @@
+﻿@model Cineplex_Management.Models.Hall
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        background-color: #121212;
+        font-family: 'Roboto', sans-serif;
+        color: #f1f1f1;
+    }
+
+    h1, h4 {
+        text-align: center;
+        color: #f44336;
+        font-size: 2rem;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    .edit-container {
+        background: linear-gradient(145deg, #2e2e2e, #1b1b1b);
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0 5px 15px rgba(255, 0, 0, 0.2);
+        max-width: 600px;
+        margin: auto;
+        transition: all 0.3s ease;
+    }
+
+        .edit-container:hover {
+            box-shadow: 0 10px 25px rgba(255, 0, 0, 0.4);
+        }
+
+    .form-control {
+        background-color: #333;
+        color: #fff;
+        border-radius: 8px;
+        border: 1px solid #555;
+        padding: 12px;
+        font-size: 1rem;
+    }
+
+    .form-group label {
+        color: #ddd;
+        font-weight: 600;
+    }
+
+    .btn-primary {
+        background-color: #f44336;
+        color: white;
+        border: none;
+        padding: 12px 20px;
+        border-radius: 8px;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: background 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #c13533;
+        }
+
+    .btn-secondary {
+        background-color: #757575;
+        color: white;
+        padding: 12px 20px;
+        border-radius: 8px;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: background 0.3s ease;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5d5d5d;
+        }
+
+    .back-link {
+        color: #f44336;
+        font-weight: 600;
+        text-decoration: none;
+        font-size: 1rem;
+        transition: color 0.3s ease;
+    }
+
+        .back-link:hover {
+            color: #ff6f61;
+        }
+
+    hr {
+        border: 1px solid #444;
+        margin: 20px 0;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+</style>
+
+
+<h1>Edit Hall</h1>
+<hr />
+<div class="edit-container">
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="HallId" />
+
+        <div class="form-group">
+            <label asp-for="HallName" class="control-label"></label>
+            <input asp-for="HallName" class="form-control" />
+            <span asp-validation-for="HallName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Row" class="control-label"></label>
+            <input asp-for="Row" class="form-control" />
+            <span asp-validation-for="Row" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Column" class="control-label"></label>
+            <input asp-for="Column" class="form-control" />
+            <span asp-validation-for="Column" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-4">
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-secondary ms-2 back-link">Back to List</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cineplex_Management.props" />
+</Project>

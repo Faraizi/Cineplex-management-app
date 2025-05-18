@@ -1,0 +1,44 @@
+﻿@model Cineplex_Management.Models.Hall
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="create-hall-wrapper">
+    <div class="overlay"></div>
+    <div class="create-hall-form-container">
+        <h1 class="text-center text-dark mb-2">Create Hall</h1>
+        <hr class="headline-border" />
+        <form asp-action="Create" class="mt-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-3">
+                <label asp-for="HallName" class="form-label text-dark fw-bold"></label>
+                <input asp-for="HallName" class="form-control" />
+                <span asp-validation-for="HallName" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Row" class="form-label text-dark fw-bold"></label>
+                <input asp-for="Row" class="form-control" />
+                <span asp-validation-for="Row" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-4">
+                <label asp-for="Column" class="form-label text-dark fw-bold"></label>
+                <input asp-for="Column" class="form-control" />
+                <span asp-validation-for="Column" class="text-danger"></span>
+            </div>
+            <div class="form-group d-grid">
+                <input type="submit" value="Create" class="btn btn-dark-red" />
+            </div>
+        </form>
+        <div class="text-center mt-3">
+            <a asp-action="Index" class="text-white">← Back to List</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Cineplex_Management.Models.Hall>
+
+@{
+    ViewData["BodyClass"] = "Hall-page";
+    ViewData["Title"] = "Hall List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="hall-index-red-theme">
+    <h1 class="hall-title">Hall List</h1>
+
+    <p>
+        <a asp-action="Create" class="btn-red">+ Create New Hall</a>
+    </p>
+
+    <table class="hall-table-red">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.HallName)</th>
+                <th>@Html.DisplayNameFor(model => model.Row)</th>
+                <th>@Html.DisplayNameFor(model => model.Column)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.HallName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Row)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Column)</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.HallId" class="btn-action edit">Edit</a>
+                        <a asp-action="EditSit" asp-route-id="@item.HallId" class="btn-action sits">Sits</a>
+                        <a asp-action="EditPrice" asp-route-id="@item.HallId" class="btn-action prices">Prices</a> |
+                        <a asp-action="Delete" asp-route-id="@item.HallId" class="btn-action delete">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
