@@ -19,6 +19,12 @@ namespace Cineplex_Management.Controllers
             this.en = en;
         }
 
+        // Movie Details page with hall and show details
+        //public ActionResult Details(int id)
+        //{
+        //    var mv = db.Movies.Include(sd=>sd.Shows).Include(h=>h.Hall).Include(m=>m.Movie);
+        //    return View(mv);
+        //}
         // Index action to display the list of movies
         public async Task<IActionResult> Index()
         {

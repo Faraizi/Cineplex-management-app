@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vhc05ch2j9</Fingerprint>
-      <Integrity>vVssSDighBmemOd1/bQWCpxexwa4Y3pECjzNVI2JwEU=</Integrity>
+      <Fingerprint>tu5ezbbq8g</Fingerprint>
+      <Integrity>26vvwbQDlLXP4kc+bqALIjnmPeF67/MvMJLLwFcwhf0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -126,24 +126,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4a0ed8c9-d3d2-4c2a-afa4-cc1fdf7f99e0.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6b5f6fe3-e50d-4b1e-a581-4db2b86da1ee.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>Cineplex_Management</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Cineplex_Management</BasePath>
-      <RelativePath>images/6b5f6fe3-e50d-4b1e-a581-4db2b86da1ee.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>akgkrmc1tl</Fingerprint>
-      <Integrity>2qPgI9SbsnIfG9uIZx/viFG4Xs/dqRC9ocJ/VJXNARc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\6b5f6fe3-e50d-4b1e-a581-4db2b86da1ee.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\739feb41-17f6-45f6-8cab-37a91c34325a.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Cineplex_Management</SourceId>
@@ -197,6 +179,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\8f3488e4-1bc9-4d61-8375-1c58f48c3317.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9a9576f8-e1f3-4df1-b207-418bca5a3217.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Cineplex_Management</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Cineplex_Management</BasePath>
+      <RelativePath>images/9a9576f8-e1f3-4df1-b207-418bca5a3217.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uchegg4ixf</Fingerprint>
+      <Integrity>oqBnBNvQJFn6g0yMhdXColB8iQU9NAg0UNrIGZ7fr5I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9a9576f8-e1f3-4df1-b207-418bca5a3217.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\9b3b3bc4-29f6-466c-a472-e40497bbc926.png'))">
       <SourceType>Package</SourceType>
@@ -359,6 +359,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cinema-2502213_1280.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d6dc4b48-23e1-4b83-a153-ddf4c2195771.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Cineplex_Management</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Cineplex_Management</BasePath>
+      <RelativePath>images/d6dc4b48-23e1-4b83-a153-ddf4c2195771.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kkyaumubfp</Fingerprint>
+      <Integrity>hGPmh5uGWy9lH/niaFq1ja/Dijy2H2K8DP8XnEyDf0Q=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\d6dc4b48-23e1-4b83-a153-ddf4c2195771.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\daagi.jpeg'))">
       <SourceType>Package</SourceType>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\Cineplex_Management.csproj": {}
+    "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Cineplex_Management.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\Cineplex_Management.csproj": {
+    "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Cineplex_Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\Cineplex_Management.csproj",
+        "projectUniqueName": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Cineplex_Management.csproj",
         "projectName": "Cineplex_Management",
-        "projectPath": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\Cineplex_Management.csproj",
+        "projectPath": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Cineplex_Management.csproj",
         "packagesPath": "C:\\Users\\sahad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\obj\\",
+        "outputPath": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -106,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

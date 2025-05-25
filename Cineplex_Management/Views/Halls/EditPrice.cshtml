@@ -1,78 +1,167 @@
 ﻿@model Cineplex_Management.VM.HallVm
-@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
-<h3>Ticket Price</h3>
-<h4>Hall: @Model.HallName</h4>
-<input type="hidden" name="HallId" id="HallId" value="@Model.HallId" />
-<input type="hidden" name="Row" id="Row" value="@Model.Row" />
-<input type="hidden" name="Column" id="Column" value="@Model.Column" />
-<input type="hidden" id="Seats" name="Seats" value="@Model.SeatPlans.Count" />
-<table>
-    @for (var i = 0; i < Model.Row; i++)
-    {
-        var RowNumber = i + 1;
-        int? price = 0;
-        var oSeatPlan = (from x in Model.SeatPlans where x.RowNumber == RowNumber select x).FirstOrDefault();
-        if (oSeatPlan != null)
-        {
-            price = oSeatPlan.Price;
+
+<style>
+    body {
+        background-color: #1a0000;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fff;
+    }
+
+    .price-card {
+        background-color: #6d0101;
+        padding: 30px;
+        border-radius: 15px;
+        max-width: 800px;
+        margin: 40px auto;
+        box-shadow: 0px 0px 10px #00000077;
+    }
+
+    h3, h4 {
+        text-align: center;
+        color: white;
+        margin-bottom: 20px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: #ffecec;
+        color: #000;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    td {
+        padding: 12px 15px;
+        border-bottom: 1px solid #ccc;
+        font-size: 16px;
+    }
+
+        td:first-child {
+            font-weight: bold;
+            background-color: #ffd5d5;
+            width: 30%;
         }
-        <tr>
-            <td>Row-@RowNumber</td>
-        <td>
-            <input type="hidden" name="RowNumber" value="@RowNumber" />
-            <input type="number" name="Price" value="@price" style="text-align:right" />
-        </td>
-    </tr>
-}
-</table>
-<input type="button" value="Save" onclick="editPrice()">
-<div>
-    <a asp-action="Index">Back to List</a>
+
+    input[type="number"] {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #8B0000;
+        border-radius: 5px;
+        background-color: #fff6f6;
+        color: #000;
+    }
+
+    input[type="button"] {
+        margin-top: 20px;
+        padding: 10px 30px;
+        background-color: #ff4d4d;
+        border: none;
+        color: white;
+        font-weight: bold;
+        border-radius: 8px;
+        float: right;
+        transition: background-color 0.3s ease;
+    }
+
+        input[type="button"]:hover {
+            background-color: #cc0000;
+        }
+
+    .back-link {
+        float: left;
+        color: #fff;
+        text-decoration: none;
+        background-color: #5a0000;
+        padding: 10px 20px;
+        border-radius: 8px;
+        font-weight: bold;
+    }
+
+        .back-link:hover {
+            background-color: #770000;
+        }
+
+    .clearfix {
+        clear: both;
+    }
+</style>
+
+<div class="price-card">
+    <h3>Ticket Price</h3>
+    <h4>Hall: @Model.HallName</h4>
+
+    <input type="hidden" name="HallId" id="HallId" value="@Model.HallId" />
+    <input type="hidden" name="Row" id="Row" value="@Model.Row" />
+    <input type="hidden" name="Column" id="Column" value="@Model.Column" />
+    <input type="hidden" id="Seats" name="Seats" value="@Model.SeatPlans.Count" />
+
+    <table>
+        @for (var i = 0; i < Model.Row; i++)
+        {
+            var RowNumber = i + 1;
+            int? price = 0;
+            var oSeatPlan = Model.SeatPlans.FirstOrDefault(x => x.RowNumber == RowNumber);
+            if (oSeatPlan != null)
+            {
+                price = oSeatPlan.Price;
+            }
+            <tr>
+                <td>Row @RowNumber</td>
+                <td>
+                    <input type="hidden" name="RowNumber" value="@RowNumber" />
+                    <input type="number" name="Price" value="@price" />
+                </td>
+            </tr>
+        }
+    </table>
+
+    <div class="clearfix" style="margin-top: 30px;">
+        <a asp-action="Index" class="back-link">← Back to List</a>
+        <input type="button" value="Save" onclick="editPrice()" />
+    </div>
 </div>
 
 <script>
-    function editPrice(){
-       var HallId = document.getElementById('HallId').value;
-       var Column = parseInt(document.getElementById('Column').value);
-       var Row = parseInt(document.getElementById('Row').value);
+    function editPrice() {
+        var HallId = document.getElementById('HallId').value;
+        var Column = parseInt(document.getElementById('Column').value);
+        var Row = parseInt(document.getElementById('Row').value);
+        var Seats = parseInt(document.getElementById('Seats').value);
+        var seatsTotal = Column * Row;
 
-       var Seats = parseInt(document.getElementById('Seats').value);
-       var seatsTotal = Column * Row;
-       if(Seats != seatsTotal){
-           alert('alert! setup seats first.');
-           return;
-       }
-       
-       var RowNumbers = document.getElementsByName('RowNumber');
-       var Prices = document.getElementsByName('Price');
-       var SeatPlans = [];
-       for(var i =0; i < RowNumbers.length; i++){
-           SeatPlans.push({
-               RowNumber:RowNumbers[i].value,
-               Price:Prices[i].value,
-               HallId:HallId
-           });
-       }
-        $.ajax({
-        type: "POST",
-        url: "/Halls/EditPrice", // controller/action
-        data: {
-            HallId: HallId,
-            Column: Column,
-            Row: Row,
-            SeatPlans: SeatPlans,
-        },
-        success: function (response) {
-            console.log(response.message);
-            alert(response.message);
-        },
-        error: function () {
-            alert("Error calling controller");
+        if (Seats !== seatsTotal) {
+            alert('Alert! Please setup seats first.');
+            return;
         }
+
+        var RowNumbers = document.getElementsByName('RowNumber');
+        var Prices = document.getElementsByName('Price');
+        var SeatPlans = [];
+
+        for (var i = 0; i < RowNumbers.length; i++) {
+            SeatPlans.push({
+                RowNumber: RowNumbers[i].value,
+                Price: Prices[i].value,
+                HallId: HallId
+            });
+        }
+
+        $.ajax({
+            type: "POST",
+            url: "/Halls/EditPrice",
+            data: {
+                HallId: HallId,
+                Column: Column,
+                Row: Row,
+                SeatPlans: SeatPlans,
+            },
+            success: function (response) {
+                alert(response.message);
+            },
+            error: function () {
+                alert("Error calling controller");
+            }
         });
     }
 </script>

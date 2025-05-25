@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cineplex_Management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfe2f7397e79386821cf4f5ff682863ab3f30400")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec380417af921dac7b5cd2a259b4cd52e5641051")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cineplex_Management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cineplex_Management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

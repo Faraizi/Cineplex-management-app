@@ -30,23 +30,13 @@ namespace Cineplex_Management.Controllers
             return View(showsWithDetails);
         }
         // GET: ShowsController/Details/5
-        public ActionResult Details(int id)
-        {
-            
-                var showsWithDetails = _ctx.Shows
-               .Include(s => s.Hall) // Assuming 'Hall' is a navigation property in your Show entity
-               .Include(s => s.Movie) // Assuming 'Movie' is a navigation property in your Show entity
-               .ToList();
-                return View(showsWithDetails);
-
-        }
 
         // GET: ShowsController/Create
         public ActionResult Create()
         {
             var listMovie = _ctx.Movies.ToList();
             var movies = new List<SelectListItem>();
-            foreach (var oMovie in listMovie) 
+            foreach (var oMovie in listMovie)
             {
                 var movie = new SelectListItem();
                 movie.Value = oMovie.MovieId.ToString();
@@ -85,7 +75,7 @@ namespace Cineplex_Management.Controllers
                 _ctx.SaveChanges();
                 var listShowDetail = new List<ShowDetail>();
                 var listSeat = (from x in _ctx.SeatPlans where x.HallId == model.HallId select x).ToList();
-                foreach (var seat in listSeat) 
+                foreach (var seat in listSeat)
                 {
                     var oShowDetail = new ShowDetail();
                     oShowDetail.IsBooked = false;
@@ -135,7 +125,7 @@ namespace Cineplex_Management.Controllers
             {
                 model.ShowStart = oShow.ShowStart;
                 model.ShowEnd = oShow.ShowEnd;
-                model.ShowId = oShow.ShowId;    
+                model.ShowId = oShow.ShowId;
                 model.ShowName = oShow.ShowName;
                 model.HallId = oShow.HallId;
                 model.MovieId = oShow.MovieId;
@@ -151,14 +141,14 @@ namespace Cineplex_Management.Controllers
             try
             {
                 var model = (from x in _ctx.Shows where x.ShowId == id select x).FirstOrDefault();
-                if (model != null) 
+                if (model != null)
                 {
                     model.ShowStart = Convert.ToDateTime(collection["ShowStart"]);
                     model.ShowEnd = Convert.ToDateTime(collection["ShowEnd"]);
                     model.ShowName = Convert.ToString(collection["ShowName"]);
                     model.HallId = Convert.ToInt32(collection["HallId"]);
                     model.MovieId = Convert.ToInt32(collection["MovieId"]);
-                    
+
                     _ctx.SaveChanges();
 
                     var listShowDetailRem = (from x in _ctx.ShowDetails where x.ShowId == model.ShowId select x).ToList();
@@ -184,8 +174,8 @@ namespace Cineplex_Management.Controllers
                     _ctx.ShowDetails.AddRange(listShowDetail);
                     _ctx.SaveChanges();
                 }
-                
-                
+
+
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -194,25 +184,33 @@ namespace Cineplex_Management.Controllers
             }
         }
 
-        // GET: ShowsController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: ShowsController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
         {
             try
             {
+                var show = _ctx.Shows.Find(id);
+                if (show != null)
+                {
+                    // Remove related ShowDetails first if needed
+                    var showDetails = _ctx.ShowDetails.Where(sd => sd.ShowId == id).ToList();
+                    if (showDetails.Any())
+                    {
+                        _ctx.ShowDetails.RemoveRange(showDetails);
+                    }
+
+                    _ctx.Shows.Remove(show);
+                    _ctx.SaveChanges();
+                }
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
-                return View();
+                // Optionally add an error message
+                return RedirectToAction(nameof(Index));
             }
         }
+
     }
 }

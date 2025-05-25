@@ -1,0 +1,92 @@
+﻿@model Cineplex_Management.Models.Show
+@{
+    ViewData["Title"] = "Booking Confirmation";
+    var bookedSeats = ViewBag.BookedSeats as List<string>;
+    var totalPrice = ViewBag.TotalPrice as decimal? ?? 0m;
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header bg-success text-white">
+                    <h3 class="mb-0">Booking Confirmation</h3>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-success">
+                        <h4>Your booking for @Model.ShowName is confirmed!</h4>
+                        <p class="mb-1"><strong>Hall:</strong> @Model.Hall?.HallName</p>
+                        <p class="mb-1"><strong>Time:</strong> @Model.ShowStart?.ToString("MMM dd, yyyy hh:mm tt")</p>
+                        @if (Model.Movie != null)
+                        {
+                            <p class="mb-1"><strong>Movie:</strong> @Model.Movie.MovieName</p>
+                        }
+                    </div>
+
+                    <div class="confirmation-details mt-4">
+                        <h5>Booking Details:</h5>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Seat Number</th>
+                                    <th>Price</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var seat in bookedSeats)
+                                {
+                                    var seatPlan = Model.Hall?.SeatPlans?.FirstOrDefault(sp => sp.SeatNumber == seat);
+                                    var price = seatPlan?.Price ?? 0;
+                                    <tr>
+                                        <td>@seat</td>
+                                        <td>$@price</td>
+                                    </tr>
+                                }
+                            </tbody>
+                            <tfoot>
+                                <tr class="table-active">
+                                    <th>Total</th>
+                                    <th>$@totalPrice</th>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+
+                    <div class="confirmation-actions mt-4">
+                        <a href="@Url.Action("SelectShow")" class="btn btn-primary">Book Another Show</a>
+                        <button onclick="window.print()" class="btn btn-secondary ml-2">Print Ticket</button>
+                    </div>
+                </div>
+                <div class="card-footer text-muted">
+                    Booking reference: #@DateTime.Now.ToString("yyyyMMddHHmmss")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .confirmation-details {
+        border: 1px solid #dee2e6;
+        border-radius: 5px;
+        padding: 20px;
+    }
+
+    .card-header {
+        font-size: 1.25rem;
+    }
+
+    .alert-success {
+        background-color: #d4edda;
+        border-color: #c3e6cb;
+        color: #155724;
+    }
+
+    .table {
+        margin-bottom: 0;
+    }
+
+        .table th {
+            border-top: none;
+        }
+</style>

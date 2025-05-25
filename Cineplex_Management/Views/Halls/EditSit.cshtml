@@ -5,6 +5,120 @@
 @{
 
 }
+<style>
+    body {
+        background-color: #121212;
+        color: #fff;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    h3 {
+        color: #fff;
+        margin-bottom: 20px;
+        border-bottom: 2px solid #8B0000;
+        padding-bottom: 5px;
+    }
+
+    /* Screen Styling */
+    #screen {
+        background-color: #1e1e1e;
+        border: 5px solid #aeaeae;
+        padding: 50px;
+        margin: 20px auto;
+        text-align: center;
+        font-size: 22px;
+        font-weight: bold;
+        border-radius: 10px;
+        color: #fff;
+        width: 98%;
+    }
+
+    /* Seat Table */
+    #sits {
+        margin: 0 auto;
+        border-collapse: separate;
+        border-spacing: 10px;
+        text-align: center;
+    }
+
+        #sits td {
+            background-color: #333;
+            color: white;
+            padding: 15px 20px;
+            border: 1px solid #8B0000;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 16px;
+            width: 60px;
+            height: 50px;
+            text-align: center;
+            transition: all 0.2s ease-in-out;
+        }
+
+            #sits td:hover {
+                background-color: #8B0000;
+                color: #fff;
+                cursor: pointer;
+                transform: scale(1.1);
+            }
+
+    /* Form Controls */
+    .form-control {
+        background-color: #1f1f1f;
+        border: 1px solid #8B0000;
+        color: #fff;
+    }
+
+        .form-control:focus {
+            background-color: #1f1f1f;
+            color: white;
+            border-color: #c62828;
+            box-shadow: none;
+        }
+
+    label {
+        font-weight: 600;
+        color: #fff;
+    }
+
+    input[type="button"] {
+        margin-top: 25px;
+        padding: 10px 20px;
+        border-radius: 6px;
+        border: none;
+        background-color: #8B0000;
+        color: white;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+
+        input[type="button"]:hover {
+            background-color: #b71c1c;
+            color: #fff;
+        }
+
+    #isChange {
+        color: #f44336;
+        font-weight: bold;
+        margin-left: 10px;
+    }
+
+    a {
+        color: #ffcccb;
+        font-weight: bold;
+        display: inline-block;
+        margin-top: 20px;
+    }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+    .action-bar {
+        margin-top: 30px;
+    }
+</style>
+
 <h3>Seat Plan</h3>
 <div class="row">
     <div class="col-md-3">
@@ -12,120 +126,104 @@
         <input type="hidden" id="SeatPlans" name="SeatPlans" />
         <input type="hidden" id="Seats" name="Seats" value="@Model.SeatPlans.Count" />
         <div class="form-group">
-            <label class="control-label" for="HallName">HallName</label>
+            <label for="HallName">Hall Name</label>
             <input class="form-control" type="text" id="HallName" name="HallName" value="@Model.HallName" readonly>
         </div>
     </div>
     <div class="col-md-3">
-
         <div class="form-group">
-            <label class="control-label" for="Column">Column</label>
+            <label for="Column">Column</label>
             <input class="form-control" type="text" id="Column" name="Column" value="@Model.Column">
         </div>
     </div>
     <div class="col-md-3">
         <div class="form-group">
-            <label class="control-label" for="Row">Row</label>
+            <label for="Row">Row</label>
             <input class="form-control" type="text" id="Row" name="Row" value="@Model.Row">
         </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-md-3 d-flex align-items-end">
         <input type="button" value="Generate Seat" onclick="generateSit()">
     </div>
 </div>
-<div class="row">
+
+<div class="row mt-4">
     <div class="col-md-12">
-        <div id="screen" style="
-  background-color: lightgrey;
-  width: 95%;
-  border: 5px solid green;
-  padding: 50px;
-  margin: 20px;
-  text-align: center;
-  ">
-            Screen
+        <div id="screen">Screen</div>
+        <table border="1" width="100%" id="sits"></table>
+
+        <!-- Save and Back Buttons -->
+        <div class="d-flex justify-content-between align-items-center action-bar">
+            <a asp-action="Index" class="text-decoration-none text-danger fw-bold">← Back to List</a>
+            <div>
+                <input type="button" value="Save" onclick="editSit()" />
+                <label id="isChange" style="display:none">Change</label>
+            </div>
         </div>
-        <table border="1" width="100%" id="sits" style="text-align:center"></table>
-        <input type="button" value="Save" onclick="editSit()"> <label id="isChange" style="display:none">Change</label>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        // Your code here
+    document.addEventListener("DOMContentLoaded", function () {
         console.log("Document is ready!");
         generateSit();
     });
 
-    function generateSit(){
-       var HallId = document.getElementById('HallId').value;
-       var Column = document.getElementById('Column').value;
-       var Row = document.getElementById('Row').value;
-       var listSit = [];
+    function generateSit() {
+        var HallId = document.getElementById('HallId').value;
+        var Column = document.getElementById('Column').value;
+        var Row = document.getElementById('Row').value;
+        var listSit = [];
 
-       var tb = '';
-       for(var r = 0; r<Row;r++){
-
-           var tr = '<tr>';
-           for(var c = 0; c<Column;c++){
-
-                let char = String.fromCharCode(65 + c); // returns 'A'
-
+        var tb = '';
+        for (var r = 0; r < Row; r++) {
+            var tr = '<tr>';
+            for (var c = 0; c < Column; c++) {
+                let char = String.fromCharCode(65 + c);
                 var rowNumber = 1 + r;
                 var SeatNumber = char + rowNumber;
-                var tds = '<td>'+SeatNumber+'</td>';
+                var tds = '<td>' + SeatNumber + '</td>';
                 tr += tds;
                 listSit.push({
-                    HallId:HallId,
-                    SeatNumber:SeatNumber,
-                    Price:0,
-                    SeatPlanId:0,
-                    RowNumber:rowNumber
+                    HallId: HallId,
+                    SeatNumber: SeatNumber,
+                    Price: 0,
+                    SeatPlanId: 0,
+                    RowNumber: rowNumber
                 });
-
-
-           }
-           tr += '</tr>';
-           tb += tr;
+            }
+            tr += '</tr>';
+            tb += tr;
         }
-       console.log(listSit);
-       document.getElementById('SeatPlans').value = JSON.stringify(listSit);
-       document.getElementById('sits').innerHTML = tb;
-       var Seats = parseInt(document.getElementById('Seats').value);
-       if(Seats == listSit.length){
-           document.getElementById("isChange").style.display = "block";
-       }
+        document.getElementById('SeatPlans').value = JSON.stringify(listSit);
+        document.getElementById('sits').innerHTML = tb;
+        var Seats = parseInt(document.getElementById('Seats').value);
+        if (Seats == listSit.length) {
+            document.getElementById("isChange").style.display = "block";
+        }
     }
 
-    function editSit(){
-       var HallId = document.getElementById('HallId').value;
-       var Column = document.getElementById('Column').value;
-       var Row = document.getElementById('Row').value;
-       var SeatPlans = JSON.parse(document.getElementById('SeatPlans').value);
+    function editSit() {
+        var HallId = document.getElementById('HallId').value;
+        var Column = document.getElementById('Column').value;
+        var Row = document.getElementById('Row').value;
+        var SeatPlans = JSON.parse(document.getElementById('SeatPlans').value);
         $.ajax({
-        type: "POST",
-        url: "/Halls/EditSit", // controller/action
-        data: {
-            HallId: HallId,
-            Column: Column,
-            Row: Row,
-            SeatPlans: SeatPlans,
-        },
-        success: function (response) {
-            console.log(response.message);
-            alert(response.message);
-        },
-        error: function () {
-            alert("Error calling controller");
-        }
+            type: "POST",
+            url: "/Halls/EditSit",
+            data: {
+                HallId: HallId,
+                Column: Column,
+                Row: Row,
+                SeatPlans: SeatPlans,
+            },
+            success: function (response) {
+                console.log(response.message);
+                alert(response.message);
+            },
+            error: function () {
+                alert("Error calling controller");
+            }
         });
     }
-
-
-
 </script>
-

@@ -17,97 +17,105 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Cineplex_Management
 build_property.RootNamespace = Cineplex_Management
-build_property.ProjectDir = C:\Users\sahad\Desktop\Project Z\Cineplex-management-app\Cineplex-management-app\Cineplex-management-app\Cineplex_Management\
+build_property.ProjectDir = C:\Users\sahad\Desktop\Project Z\Cineplex-management-app\Cineplex_Management\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sahad\Desktop\Project Z\Cineplex-management-app\Cineplex-management-app\Cineplex-management-app\Cineplex_Management
+build_property.MSBuildProjectDirectory = C:\Users\sahad\Desktop\Project Z\Cineplex-management-app\Cineplex_Management
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Halls/Create.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Booking/BookingConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Booking/SelectSeat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xTZWxlY3RTZWF0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Booking/SelectShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xTZWxlY3RTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Halls/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Halls/Delete.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Halls/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Halls/Details.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Halls/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Halls/Edit.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Halls/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Halls/EditPrice.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Halls/EditPrice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbHNcRWRpdFByaWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Halls/EditSit.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Halls/EditSit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbHNcRWRpdFNpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Halls/Index.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Halls/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Halls/Seat.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Halls/Seat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFsbHNcU2VhdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Home/About.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Home/Index.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Movie/Create.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Movie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Movie/Index.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Movie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Shared/Error.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Shows/Create.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Shows/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvd3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Shows/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvd3NcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Shows/Edit.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Shows/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvd3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Shows/Index.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Shows/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvd3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/_ViewImports.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/_ViewStart.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex-management-app/Cineplex-management-app/Cineplex_Management/Views/Shared/_Layout.cshtml]
+[C:/Users/sahad/Desktop/Project Z/Cineplex-management-app/Cineplex_Management/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bna7ad50km

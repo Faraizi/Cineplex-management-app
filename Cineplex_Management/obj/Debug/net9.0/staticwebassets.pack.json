@@ -1,335 +1,339 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Cineplex_Management.bundle.scp.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Cineplex_Management.bundle.scp.css",
       "PackagePath": "staticwebassets\\Cineplex_Management.cwjh1f14yi.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\08ac2350-3351-4313-879b-7f8da44c5412.png",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\08ac2350-3351-4313-879b-7f8da44c5412.png",
       "PackagePath": "staticwebassets\\images\\08ac2350-3351-4313-879b-7f8da44c5412.png"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\11.jpg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\11.jpg",
       "PackagePath": "staticwebassets\\images\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\1b199562-06c3-4bbd-a8af-14b65aeb9f09.jpg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\1b199562-06c3-4bbd-a8af-14b65aeb9f09.jpg",
       "PackagePath": "staticwebassets\\images\\1b199562-06c3-4bbd-a8af-14b65aeb9f09.jpg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\4a0ed8c9-d3d2-4c2a-afa4-cc1fdf7f99e0.jpeg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\4a0ed8c9-d3d2-4c2a-afa4-cc1fdf7f99e0.jpeg",
       "PackagePath": "staticwebassets\\images\\4a0ed8c9-d3d2-4c2a-afa4-cc1fdf7f99e0.jpeg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\6b5f6fe3-e50d-4b1e-a581-4db2b86da1ee.png",
-      "PackagePath": "staticwebassets\\images\\6b5f6fe3-e50d-4b1e-a581-4db2b86da1ee.png"
-    },
-    {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\739feb41-17f6-45f6-8cab-37a91c34325a.png",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\739feb41-17f6-45f6-8cab-37a91c34325a.png",
       "PackagePath": "staticwebassets\\images\\739feb41-17f6-45f6-8cab-37a91c34325a.png"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\7b0e7ba9-874c-46c3-b690-4cd46120bbc7.png",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\7b0e7ba9-874c-46c3-b690-4cd46120bbc7.png",
       "PackagePath": "staticwebassets\\images\\7b0e7ba9-874c-46c3-b690-4cd46120bbc7.png"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\8f3488e4-1bc9-4d61-8375-1c58f48c3317.jpeg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\8f3488e4-1bc9-4d61-8375-1c58f48c3317.jpeg",
       "PackagePath": "staticwebassets\\images\\8f3488e4-1bc9-4d61-8375-1c58f48c3317.jpeg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\9b3b3bc4-29f6-466c-a472-e40497bbc926.png",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\9a9576f8-e1f3-4df1-b207-418bca5a3217.jpeg",
+      "PackagePath": "staticwebassets\\images\\9a9576f8-e1f3-4df1-b207-418bca5a3217.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\9b3b3bc4-29f6-466c-a472-e40497bbc926.png",
       "PackagePath": "staticwebassets\\images\\9b3b3bc4-29f6-466c-a472-e40497bbc926.png"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a2c4e968-ac94-4429-b816-711bb1b62239.png",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a2c4e968-ac94-4429-b816-711bb1b62239.png",
       "PackagePath": "staticwebassets\\images\\a2c4e968-ac94-4429-b816-711bb1b62239.png"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a555a3c8-c334-41aa-9eb7-62c88685cbb5.png",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a555a3c8-c334-41aa-9eb7-62c88685cbb5.png",
       "PackagePath": "staticwebassets\\images\\a555a3c8-c334-41aa-9eb7-62c88685cbb5.png"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\ba35a967-187d-4c7f-9cc6-f3723b21d30b.jpg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\ba35a967-187d-4c7f-9cc6-f3723b21d30b.jpg",
       "PackagePath": "staticwebassets\\images\\ba35a967-187d-4c7f-9cc6-f3723b21d30b.jpg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\bg3.webp",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\bg3.webp",
       "PackagePath": "staticwebassets\\images\\bg3.webp"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\bg6.webp",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\bg6.webp",
       "PackagePath": "staticwebassets\\images\\bg6.webp"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\borbad.jpeg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\borbad.jpeg",
       "PackagePath": "staticwebassets\\images\\borbad.jpeg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\cinema-2502213_1280.jpg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\cinema-2502213_1280.jpg",
       "PackagePath": "staticwebassets\\images\\cinema-2502213_1280.jpg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\cinema.svg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\cinema.svg",
       "PackagePath": "staticwebassets\\images\\cinema.svg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\daagi.jpeg",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\d6dc4b48-23e1-4b83-a153-ddf4c2195771.jpeg",
+      "PackagePath": "staticwebassets\\images\\d6dc4b48-23e1-4b83-a153-ddf4c2195771.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\daagi.jpeg",
       "PackagePath": "staticwebassets\\images\\daagi.jpeg"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex-management-app\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

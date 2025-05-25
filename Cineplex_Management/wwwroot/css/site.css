@@ -284,6 +284,13 @@ html {
         .btn-action.sits:hover {
             background-color: #2e7d32;
         }
+    .btn-action.prices {
+        background-color: #cb6423;
+    }
+
+        .btn-action.prices:hover {
+            background-color: #d35200;
+        }
 
     .btn-action.delete {
         background-color: #c62828;

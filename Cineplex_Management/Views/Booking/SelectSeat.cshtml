@@ -1,0 +1,195 @@
+﻿@model Cineplex_Management.Models.Show
+@{
+    ViewData["Title"] = "Select Seats";
+    var bookedSeats = ViewBag.BookedSeats as List<string> ?? new List<string>();
+    var rows = Enumerable.Range(1, Model.Hall?.Row ?? 0);
+    var columns = Enumerable.Range(1, Model.Hall?.Column ?? 0);
+    var seatPlans = Model.Hall?.SeatPlans?.ToList() ?? new List<SeatPlan>();
+}
+
+<h2>Select Seats for @Model.ShowName</h2>
+<h4>Hall: @Model.Hall?.HallName</h4>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="seat-selection-container">
+            <div class="screen">Screen</div>
+
+            <div class="seat-map">
+                @foreach (var row in rows)
+                {
+                    <div class="seat-row">
+                        <div class="row-label">Row @row</div>
+                        <div class="seats">
+                            @foreach (var col in columns)
+                            {
+                                var seatNumber = $"{row}-{col}";
+                                var isBooked = bookedSeats.Contains(seatNumber);
+                                var seatPlan = seatPlans.FirstOrDefault(sp => sp.SeatNumber == seatNumber);
+                                var price = seatPlan?.Price ?? 0;
+
+                                <div class="seat @(isBooked ? "booked" : "available")"
+                                     data-seat="@seatNumber"
+                                     data-price="@price"
+                                     onclick="@(isBooked ? "" : "toggleSeat(this)")">
+                                    @col
+                                    <div class="seat-price">$@price</div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="booking-summary card">
+            <div class="card-header">
+                <h5>Booking Summary</h5>
+            </div>
+            <div class="card-body">
+                <p><strong>Show:</strong> @Model.ShowName</p>
+                <p><strong>Hall:</strong> @Model.Hall?.HallName</p>
+                <p><strong>Time:</strong> @Model.ShowStart?.ToString("MMM dd, yyyy hh:mm tt")</p>
+                <hr>
+                <div id="selectedSeatsList"></div>
+                <hr>
+                <p>Total: $<span id="totalPrice">0</span></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<form id="bookingForm" asp-action="BookSeats" method="post">
+    <input type="hidden" name="showId" value="@Model.ShowId" />
+    <input type="hidden" name="selectedSeats" id="selectedSeats" value="" />
+    <button type="submit" class="btn btn-success mt-3">Confirm Booking</button>
+</form>
+
+@section Scripts {
+    <script>
+        let selectedSeats = [];
+        let selectedSeatsData = {};
+
+        function toggleSeat(element) {
+            const seatNumber = element.getAttribute('data-seat');
+            const price = parseFloat(element.getAttribute('data-price'));
+
+            if (selectedSeatsData[seatNumber]) {
+                // Remove seat
+                delete selectedSeatsData[seatNumber];
+                element.classList.remove('selected');
+            } else {
+                // Add seat
+                selectedSeatsData[seatNumber] = {
+                    number: seatNumber,
+                    price: price
+                };
+                element.classList.add('selected');
+            }
+
+            updateSelectedSeatsList();
+            updateFormData();
+        }
+
+        function updateSelectedSeatsList() {
+            const seatsList = document.getElementById('selectedSeatsList');
+            const totalPriceElement = document.getElementById('totalPrice');
+            let total = 0;
+            let html = '';
+
+            for (const seatNumber in selectedSeatsData) {
+                const seat = selectedSeatsData[seatNumber];
+                html += `<p>Seat ${seat.number} - $${seat.price}</p>`;
+                total += seat.price;
+            }
+
+            seatsList.innerHTML = html || '<p>No seats selected</p>';
+            totalPriceElement.textContent = total.toFixed(2);
+        }
+
+        function updateFormData() {
+            document.getElementById('selectedSeats').value = Object.keys(selectedSeatsData).join(',');
+        }
+    </script>
+
+    <style>
+        .seat-selection-container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .screen {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+
+        .seat-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .row-label {
+            width: 60px;
+            font-weight: bold;
+        }
+
+        .seats {
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+        }
+
+        .seat {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: #ddd;
+            border-radius: 3px;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .seat-price {
+            font-size: 0.6rem;
+            color: #666;
+        }
+
+        .seat.available:hover {
+            background: #b3e0ff;
+        }
+
+        .seat.selected {
+            background: #4CAF50;
+            color: white;
+        }
+
+            .seat.selected .seat-price {
+                color: #e6ffe6;
+            }
+
+        .seat.booked {
+            background: #f44336;
+            color: white;
+            cursor: not-allowed;
+        }
+
+        .booking-summary {
+            position: sticky;
+            top: 20px;
+        }
+    </style>
+}

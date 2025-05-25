@@ -5,25 +5,157 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Edit</h1>
+<style>
+    body {
+        background: linear-gradient(135deg, #1a1a1a 0%, #271313 100%);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #f0f0f0;
+    }
 
-<h4>Show</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
+
+    .edit-container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        margin-top: 60px;
+        padding: 20px;
+        min-height: 80vh;
+    }
+
+    .edit-form-card {
+        background: #ffffffcc;
+        border-radius: 16px;
+        padding: 40px 35px;
+        width: 100%;
+        max-width: 600px;
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+        border-left: 8px solid #dc3545;
+        animation: fadeIn 0.6s ease forwards;
+        position: relative;
+        overflow: hidden;
+    }
+
+        .edit-form-card::before {
+            content: "";
+            position: absolute;
+            top: -40%;
+            left: -30%;
+            width: 150%;
+            height: 150%;
+            background: radial-gradient(circle at center, #dc3545, transparent 70%);
+            opacity: 0.1;
+            transform: rotate(25deg);
+            pointer-events: none;
+            border-radius: 50%;
+        }
+
+        .edit-form-card h2 {
+            text-align: center;
+            color: #dc3545;
+            margin-bottom: 30px;
+            font-weight: 800;
+            letter-spacing: 1.2px;
+        }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    label {
+        font-weight: 700;
+        margin-bottom: 8px;
+        display: block;
+        color: #333;
+        letter-spacing: 0.5px;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 12px 14px;
+        font-size: 16px;
+        border-radius: 8px;
+        border: 1.5px solid #ced4da;
+        transition: border-color 0.3s ease, box-shadow 0.3s ease;
+        box-shadow: none;
+    }
+
+        .form-control:focus {
+            outline: none;
+            border-color: #dc3545;
+            box-shadow: 0 0 10px rgba(220, 53, 69, 0.25);
+        }
+
+    .text-danger {
+        color: #dc3545 !important;
+        font-size: 13px;
+        margin-top: 4px;
+        display: block;
+    }
+
+    .btn-submit {
+        width: 100%;
+        padding: 14px;
+        background-color: #dc3545;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        font-weight: 700;
+        font-size: 18px;
+        letter-spacing: 1px;
+        transition: background-color 0.3s ease;
+        box-shadow: 0 5px 12px rgba(220, 53, 69, 0.4);
+        cursor: pointer;
+    }
+
+        .btn-submit:hover {
+            background-color: #b02a37;
+            box-shadow: 0 8px 18px rgba(176, 42, 55, 0.6);
+        }
+
+    .back-link {
+        display: block;
+        text-align: right;
+        margin-top: 20px;
+        text-decoration: none;
+        font-size: 15px;
+        color: #6c757d;
+        font-weight: 600;
+        letter-spacing: 0.4px;
+        transition: color 0.3s ease;
+    }
+
+        .back-link:hover {
+            text-decoration: underline;
+            color: #343a40;
+        }
+
+    @@keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+</style>
+
+<div class="edit-container">
+    <div class="edit-form-card">
+        <h2>Edit Show</h2>
+
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="ShowId" />
+
             <div class="form-group">
-                <label asp-for="ShowName" class="control-label"></label>
+                <label asp-for="ShowName"></label>
                 <input asp-for="ShowName" class="form-control" />
                 <span asp-validation-for="ShowName" class="text-danger"></span>
             </div>
-            @* <div class="form-group">
-                <label asp-for="MovieId" class="control-label"></label>
-                <select asp-for="MovieId" class="form-control" asp-items="ViewBag.MovieId"></select>
-                <span asp-validation-for="MovieId" class="text-danger"></span>
-            </div> *@
+
             <div class="form-group">
                 <label asp-for="MovieId">Movie</label>
                 @Html.DropDownListFor(
@@ -32,12 +164,9 @@
                          "Select a Movie",
                          new { @class = "form-control" }
                          )
+                <span asp-validation-for="MovieId" class="text-danger"></span>
             </div>
-            @* <div class="form-group">
-                <label asp-for="HallId" class="control-label"></label>
-                <select asp-for="HallId" class="form-control" asp-items="ViewBag.HallId"></select>
-                <span asp-validation-for="HallId" class="text-danger"></span>
-            </div> *@
+
             <div class="form-group">
                 <label asp-for="HallId">Hall</label>
                 @Html.DropDownListFor(
@@ -46,28 +175,32 @@
                          "Select a Hall",
                          new { @class = "form-control" }
                          )
+                <span asp-validation-for="HallId" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <label asp-for="ShowStart" class="control-label"></label>
+                <label asp-for="ShowStart"></label>
                 <input asp-for="ShowStart" class="form-control" />
                 <span asp-validation-for="ShowStart" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <label asp-for="ShowEnd" class="control-label"></label>
+                <label asp-for="ShowEnd"></label>
                 <input asp-for="ShowEnd" class="form-control" />
                 <span asp-validation-for="ShowEnd" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Save" class="btn-submit" />
             </div>
         </form>
+
+        <a asp-action="Index" class="back-link">← Back to List</a>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
