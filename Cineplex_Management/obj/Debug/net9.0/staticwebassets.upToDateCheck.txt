@@ -63,7 +63,6 @@ C:\Users\sahad\Desktop\Project Z\Cineplex-management-app\Cineplex_Management\www
 C:\Users\sahad\Desktop\Project Z\Cineplex-management-app\Cineplex_Management\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\08ac2350-3351-4313-879b-7f8da44c5412.png
 wwwroot\images\11.jpg
 wwwroot\images\1b199562-06c3-4bbd-a8af-14b65aeb9f09.jpg
 wwwroot\images\4a0ed8c9-d3d2-4c2a-afa4-cc1fdf7f99e0.jpeg
@@ -72,16 +71,12 @@ wwwroot\images\7b0e7ba9-874c-46c3-b690-4cd46120bbc7.png
 wwwroot\images\8f3488e4-1bc9-4d61-8375-1c58f48c3317.jpeg
 wwwroot\images\9a9576f8-e1f3-4df1-b207-418bca5a3217.jpeg
 wwwroot\images\9b3b3bc4-29f6-466c-a472-e40497bbc926.png
-wwwroot\images\a2c4e968-ac94-4429-b816-711bb1b62239.png
-wwwroot\images\a555a3c8-c334-41aa-9eb7-62c88685cbb5.png
 wwwroot\images\ba35a967-187d-4c7f-9cc6-f3723b21d30b.jpg
 wwwroot\images\bg3.webp
 wwwroot\images\bg6.webp
-wwwroot\images\borbad.jpeg
 wwwroot\images\cinema.svg
 wwwroot\images\cinema-2502213_1280.jpg
 wwwroot\images\d6dc4b48-23e1-4b83-a153-ddf4c2195771.jpeg
-wwwroot\images\daagi.jpeg
 wwwroot\images\logo.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CxBQHC0v+4U69oAE5WFodnJCDZ2dA5mYSsdLBkJa/W4=",
+  "Hash": "sLzC+rYaPpgdXmjDRJRsgRC2DrL1NyK1yXZsVr6hXk8=",
   "Source": "Cineplex_Management",
   "BasePath": "_content/Cineplex_Management",
   "Mode": "Default",
@@ -1466,27 +1466,6 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\08ac2350-3351-4313-879b-7f8da44c5412.png",
-      "SourceId": "Cineplex_Management",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\",
-      "BasePath": "_content/Cineplex_Management",
-      "RelativePath": "images/08ac2350-3351-4313-879b-7f8da44c5412#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "g29hzovod5",
-      "Integrity": "KJsG9njPWNZZpNeU2SuqSYNFyPJu9QaZiA4K0xPD4nM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\08ac2350-3351-4313-879b-7f8da44c5412.png"
-    },
-    {
       "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\11.jpg",
       "SourceId": "Cineplex_Management",
       "SourceType": "Discovered",
@@ -1655,48 +1634,6 @@
       "OriginalItemSpec": "wwwroot\\images\\9b3b3bc4-29f6-466c-a472-e40497bbc926.png"
     },
     {
-      "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a2c4e968-ac94-4429-b816-711bb1b62239.png",
-      "SourceId": "Cineplex_Management",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\",
-      "BasePath": "_content/Cineplex_Management",
-      "RelativePath": "images/a2c4e968-ac94-4429-b816-711bb1b62239#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "qvksc1f6x8",
-      "Integrity": "tvj6Izr7zz0SF/j2IS5/5M0Sk2ZJZ6kJqzCre6uXzWM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\a2c4e968-ac94-4429-b816-711bb1b62239.png"
-    },
-    {
-      "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a555a3c8-c334-41aa-9eb7-62c88685cbb5.png",
-      "SourceId": "Cineplex_Management",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\",
-      "BasePath": "_content/Cineplex_Management",
-      "RelativePath": "images/a555a3c8-c334-41aa-9eb7-62c88685cbb5#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "akgkrmc1tl",
-      "Integrity": "2qPgI9SbsnIfG9uIZx/viFG4Xs/dqRC9ocJ/VJXNARc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\a555a3c8-c334-41aa-9eb7-62c88685cbb5.png"
-    },
-    {
       "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\ba35a967-187d-4c7f-9cc6-f3723b21d30b.jpg",
       "SourceId": "Cineplex_Management",
       "SourceType": "Discovered",
@@ -1760,27 +1697,6 @@
       "OriginalItemSpec": "wwwroot\\images\\bg6.webp"
     },
     {
-      "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\borbad.jpeg",
-      "SourceId": "Cineplex_Management",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\",
-      "BasePath": "_content/Cineplex_Management",
-      "RelativePath": "images/borbad#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "kkyaumubfp",
-      "Integrity": "hGPmh5uGWy9lH/niaFq1ja/Dijy2H2K8DP8XnEyDf0Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\borbad.jpeg"
-    },
-    {
       "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\cinema.svg",
       "SourceId": "Cineplex_Management",
       "SourceType": "Discovered",
@@ -1842,27 +1758,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\d6dc4b48-23e1-4b83-a153-ddf4c2195771.jpeg"
-    },
-    {
-      "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\daagi.jpeg",
-      "SourceId": "Cineplex_Management",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\",
-      "BasePath": "_content/Cineplex_Management",
-      "RelativePath": "images/daagi#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ohqzg8l5i2",
-      "Integrity": "JM/5hMGpQPO1iEFHMBNKrldEhJDTkZ9ezhTJJcbWqjk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\daagi.jpeg"
     },
     {
       "Identity": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\logo.png",
@@ -4361,88 +4256,6 @@
       ]
     },
     {
-      "Route": "images/08ac2350-3351-4313-879b-7f8da44c5412.g29hzovod5.png",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\08ac2350-3351-4313-879b-7f8da44c5412.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "700447"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KJsG9njPWNZZpNeU2SuqSYNFyPJu9QaZiA4K0xPD4nM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g29hzovod5"
-        },
-        {
-          "Name": "label",
-          "Value": "images/08ac2350-3351-4313-879b-7f8da44c5412.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KJsG9njPWNZZpNeU2SuqSYNFyPJu9QaZiA4K0xPD4nM="
-        }
-      ]
-    },
-    {
-      "Route": "images/08ac2350-3351-4313-879b-7f8da44c5412.png",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\08ac2350-3351-4313-879b-7f8da44c5412.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "700447"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KJsG9njPWNZZpNeU2SuqSYNFyPJu9QaZiA4K0xPD4nM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KJsG9njPWNZZpNeU2SuqSYNFyPJu9QaZiA4K0xPD4nM="
-        }
-      ]
-    },
-    {
       "Route": "images/11.akz8j4nzhi.jpg",
       "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\11.jpg",
       "Selectors": [],
@@ -5099,170 +4912,6 @@
       ]
     },
     {
-      "Route": "images/a2c4e968-ac94-4429-b816-711bb1b62239.png",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a2c4e968-ac94-4429-b816-711bb1b62239.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "596776"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tvj6Izr7zz0SF/j2IS5/5M0Sk2ZJZ6kJqzCre6uXzWM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tvj6Izr7zz0SF/j2IS5/5M0Sk2ZJZ6kJqzCre6uXzWM="
-        }
-      ]
-    },
-    {
-      "Route": "images/a2c4e968-ac94-4429-b816-711bb1b62239.qvksc1f6x8.png",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a2c4e968-ac94-4429-b816-711bb1b62239.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "596776"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tvj6Izr7zz0SF/j2IS5/5M0Sk2ZJZ6kJqzCre6uXzWM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qvksc1f6x8"
-        },
-        {
-          "Name": "label",
-          "Value": "images/a2c4e968-ac94-4429-b816-711bb1b62239.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tvj6Izr7zz0SF/j2IS5/5M0Sk2ZJZ6kJqzCre6uXzWM="
-        }
-      ]
-    },
-    {
-      "Route": "images/a555a3c8-c334-41aa-9eb7-62c88685cbb5.akgkrmc1tl.png",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a555a3c8-c334-41aa-9eb7-62c88685cbb5.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "304214"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2qPgI9SbsnIfG9uIZx/viFG4Xs/dqRC9ocJ/VJXNARc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "akgkrmc1tl"
-        },
-        {
-          "Name": "label",
-          "Value": "images/a555a3c8-c334-41aa-9eb7-62c88685cbb5.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2qPgI9SbsnIfG9uIZx/viFG4Xs/dqRC9ocJ/VJXNARc="
-        }
-      ]
-    },
-    {
-      "Route": "images/a555a3c8-c334-41aa-9eb7-62c88685cbb5.png",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\a555a3c8-c334-41aa-9eb7-62c88685cbb5.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "304214"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2qPgI9SbsnIfG9uIZx/viFG4Xs/dqRC9ocJ/VJXNARc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2qPgI9SbsnIfG9uIZx/viFG4Xs/dqRC9ocJ/VJXNARc="
-        }
-      ]
-    },
-    {
       "Route": "images/ba35a967-187d-4c7f-9cc6-f3723b21d30b.j2o32lc8or.jpg",
       "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\ba35a967-187d-4c7f-9cc6-f3723b21d30b.jpg",
       "Selectors": [],
@@ -5505,88 +5154,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-IqysuDPkgqg5UZHBFWoGT6dUdCrTzOmVKDv9Qz5RTuA="
-        }
-      ]
-    },
-    {
-      "Route": "images/borbad.jpeg",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\borbad.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "55258"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hGPmh5uGWy9lH/niaFq1ja/Dijy2H2K8DP8XnEyDf0Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hGPmh5uGWy9lH/niaFq1ja/Dijy2H2K8DP8XnEyDf0Q="
-        }
-      ]
-    },
-    {
-      "Route": "images/borbad.kkyaumubfp.jpeg",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\borbad.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "55258"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hGPmh5uGWy9lH/niaFq1ja/Dijy2H2K8DP8XnEyDf0Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kkyaumubfp"
-        },
-        {
-          "Name": "label",
-          "Value": "images/borbad.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hGPmh5uGWy9lH/niaFq1ja/Dijy2H2K8DP8XnEyDf0Q="
         }
       ]
     },
@@ -6049,88 +5616,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-hGPmh5uGWy9lH/niaFq1ja/Dijy2H2K8DP8XnEyDf0Q="
-        }
-      ]
-    },
-    {
-      "Route": "images/daagi.jpeg",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\daagi.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "54650"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JM/5hMGpQPO1iEFHMBNKrldEhJDTkZ9ezhTJJcbWqjk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-JM/5hMGpQPO1iEFHMBNKrldEhJDTkZ9ezhTJJcbWqjk="
-        }
-      ]
-    },
-    {
-      "Route": "images/daagi.ohqzg8l5i2.jpeg",
-      "AssetFile": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\images\\daagi.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "54650"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JM/5hMGpQPO1iEFHMBNKrldEhJDTkZ9ezhTJJcbWqjk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 04:26:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ohqzg8l5i2"
-        },
-        {
-          "Name": "label",
-          "Value": "images/daagi.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JM/5hMGpQPO1iEFHMBNKrldEhJDTkZ9ezhTJJcbWqjk="
         }
       ]
     },

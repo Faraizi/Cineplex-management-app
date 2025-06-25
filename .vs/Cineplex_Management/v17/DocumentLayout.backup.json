@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\vm\\hallvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\vm\\hallvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\halls\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\halls\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\shows\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\shows\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\halls\\seat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\halls\\seat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +47,16 @@
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\models\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\models\\showdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\models\\showdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\controllers\\showscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\controllers\\showscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\models\\showdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\models\\showdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\models\\salesdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,16 +83,8 @@
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\shows\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\shows\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\shows\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\shows\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -91,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\halls\\editsit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\halls\\seat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\halls\\seat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -109,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\halls\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\halls\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\halls\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\halls\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\halls\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -139,14 +151,6 @@
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\viewmodel\\movievm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\vm\\hallvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\vm\\hallvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -157,10 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|solutionrelative:cineplex_management\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AC8C5B0-F14B-4D48-9D43-FE25566A77CB}|Cineplex_Management\\Cineplex_Management.csproj|c:\\users\\sahad\\desktop\\project z\\cineplex-management-app\\cineplex_management\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -218,11 +218,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "HallsController.cs",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\HallsController.cs",
               "RelativeDocumentMoniker": "Cineplex_Management\\Controllers\\HallsController.cs",
@@ -235,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "EditSit.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\EditSit.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\EditSit.cshtml",
@@ -248,26 +248,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Details.cshtml",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Movie\\Details.cshtml",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Details.cshtml",
-              "RelativeToolTip": "Cineplex_Management\\Views\\Movie\\Details.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T17:40:13.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MovieController.cs",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "Cineplex_Management\\Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\MovieController.cs*",
-              "RelativeToolTip": "Cineplex_Management\\Controllers\\MovieController.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBoAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Cineplex_Management\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T10:24:44.207Z",
               "EditorCaption": ""
@@ -275,239 +262,96 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ShowsController.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\ShowsController.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Controllers\\ShowsController.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\ShowsController.cs",
-              "RelativeToolTip": "Cineplex_Management\\Controllers\\ShowsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T11:55:17.969Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Details.cshtml",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Movie\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Details.cshtml",
+              "RelativeToolTip": "Cineplex_Management\\Views\\Movie\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T16:50:38.191Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SeatPlan.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\SeatPlan.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\SeatPlan.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\SeatPlan.cs",
-              "RelativeToolTip": "Cineplex_Management\\Models\\SeatPlan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:14:50.748Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Index.cshtml",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Movie\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Index.cshtml",
-              "RelativeToolTip": "Cineplex_Management\\Views\\Movie\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Details.cshtml",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Details.cshtml",
+              "RelativeToolTip": "Cineplex_Management\\Views\\Halls\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T10:36:48.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Show.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Show.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\Show.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Show.cs",
-              "RelativeToolTip": "Cineplex_Management\\Models\\Show.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:14:58.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Movie.cs",
-              "RelativeToolTip": "Cineplex_Management\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T10:17:40.267Z",
+              "WhenOpened": "2025-05-01T13:13:27.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ShowDetail.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\ShowDetail.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\ShowDetail.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\ShowDetail.cs",
-              "RelativeToolTip": "Cineplex_Management\\Models\\ShowDetail.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:15:02.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SalesDetail.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\SalesDetail.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\SalesDetail.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\SalesDetail.cs",
-              "RelativeToolTip": "Cineplex_Management\\Models\\SalesDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:15:27.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Sale.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Sale.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\Sale.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Sale.cs",
-              "RelativeToolTip": "Cineplex_Management\\Models\\Sale.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:15:21.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Hall.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Hall.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\Hall.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Hall.cs",
-              "RelativeToolTip": "Cineplex_Management\\Models\\Hall.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:13:40.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "Cineplex_Management\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAADwv7cAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T04:37:38.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAAKcaAAAAAAAAAAAMwK8aAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-19T18:18:09.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "bootstrap.css.map",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-              "RelativeDocumentMoniker": "Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-              "RelativeToolTip": "Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoiwMAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-19T18:18:34.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Edit.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Shows\\Edit.cshtml",
               "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Edit.cshtml",
               "RelativeToolTip": "Cineplex_Management\\Views\\Shows\\Edit.cshtml",
-              "ViewState": "AgIAADwAAAAA/z6wPUopwAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T11:56:42.519Z"
+              "WhenOpened": "2025-05-18T11:56:42.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
+              "Title": "HallVM.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\VM\\HallVM.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\VM\\HallVM.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\VM\\HallVM.cs",
+              "RelativeToolTip": "Cineplex_Management\\VM\\HallVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T08:25:39.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Cineplex_Management\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:04:45.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Cineplex_Management\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAG8AAAAAKYrhCDQrwHcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T10:05:12.185Z"
+              "WhenOpened": "2025-05-01T10:05:12.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Index.cshtml",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Shows\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Index.cshtml",
-              "RelativeToolTip": "Cineplex_Management\\Views\\Shows\\Index.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwEEAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Cineplex_Management\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T11:56:51.058Z"
+              "WhenOpened": "2025-05-07T19:05:08.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\appsettings.json",
-              "RelativeDocumentMoniker": "Cineplex_Management\\appsettings.json",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\appsettings.json",
-              "RelativeToolTip": "Cineplex_Management\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-01T11:08:52.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Create.cshtml",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Shows\\Create.cshtml",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Create.cshtml",
-              "RelativeToolTip": "Cineplex_Management\\Views\\Shows\\Create.cshtml",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T11:56:33.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Cineplex_Management\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADoAAAAAAAAAAAAowEIAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T09:06:16.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EditPrice.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\EditPrice.cshtml",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\EditPrice.cshtml",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\EditPrice.cshtml",
-              "RelativeToolTip": "Cineplex_Management\\Views\\Halls\\EditPrice.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T11:35:18.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 8,
               "Title": "Seat.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Seat.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\Seat.cshtml",
@@ -519,7 +363,211 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\ShowDetail.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\ShowDetail.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\ShowDetail.cs",
+              "RelativeToolTip": "Cineplex_Management\\Models\\ShowDetail.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:15:02.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Movie.cs",
+              "RelativeToolTip": "Cineplex_Management\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:17:40.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Show.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Show.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\Show.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Show.cs",
+              "RelativeToolTip": "Cineplex_Management\\Models\\Show.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:14:58.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "Cineplex_Management\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T10:36:48.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeatPlan.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\SeatPlan.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\SeatPlan.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\SeatPlan.cs",
+              "RelativeToolTip": "Cineplex_Management\\Models\\SeatPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:14:50.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShowsController.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\ShowsController.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Controllers\\ShowsController.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\ShowsController.cs",
+              "RelativeToolTip": "Cineplex_Management\\Controllers\\ShowsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:55:17.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalesDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\SalesDetail.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\SalesDetail.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\SalesDetail.cs",
+              "RelativeToolTip": "Cineplex_Management\\Models\\SalesDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:15:27.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Sale.cs",
+              "RelativeToolTip": "Cineplex_Management\\Models\\Sale.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:15:21.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Hall.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Models\\Hall.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\Hall.cs",
+              "RelativeToolTip": "Cineplex_Management\\Models\\Hall.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:13:40.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Cineplex_Management\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv7cAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:37:38.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAKcaAAAAAAAAAAAMwK8aAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T18:18:09.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "Cineplex_Management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoiwMAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-19T18:18:34.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Shows\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Index.cshtml",
+              "RelativeToolTip": "Cineplex_Management\\Views\\Shows\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T11:56:51.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Cineplex_Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\appsettings.json",
+              "RelativeToolTip": "Cineplex_Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T11:08:52.64Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Shows\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shows\\Create.cshtml",
+              "RelativeToolTip": "Cineplex_Management\\Views\\Shows\\Create.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T11:56:33.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cineplex_Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAowEIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T09:06:16.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditPrice.cshtml",
+              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\EditPrice.cshtml",
+              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\EditPrice.cshtml",
+              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\EditPrice.cshtml",
+              "RelativeToolTip": "Cineplex_Management\\Views\\Halls\\EditPrice.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T11:35:18.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Cineplex_Management\\wwwroot\\css\\site.css",
@@ -531,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Index.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\Index.cshtml",
@@ -543,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Delete.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\Delete.cshtml",
@@ -555,19 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Details.cshtml",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\Details.cshtml",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Details.cshtml",
-              "RelativeToolTip": "Cineplex_Management\\Views\\Halls\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:13:27.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Edit.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\Edit.cshtml",
@@ -579,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Halls\\Create.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Halls\\Create.cshtml",
@@ -591,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Models\\User.cs",
               "RelativeDocumentMoniker": "Cineplex_Management\\Models\\User.cs",
@@ -603,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "CineplexContext.cs",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Data\\CineplexContext.cs",
               "RelativeDocumentMoniker": "Cineplex_Management\\Data\\CineplexContext.cs",
@@ -615,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ShowVm.cs",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\ViewModel\\ShowVm.cs",
               "RelativeDocumentMoniker": "Cineplex_Management\\ViewModel\\ShowVm.cs",
@@ -627,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "MovieVM.cs",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\ViewModel\\MovieVM.cs",
               "RelativeDocumentMoniker": "Cineplex_Management\\ViewModel\\MovieVM.cs",
@@ -636,30 +672,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T10:26:26.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Cineplex_Management\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T10:04:45.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "HallVM.cs",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\VM\\HallVM.cs",
-              "RelativeDocumentMoniker": "Cineplex_Management\\VM\\HallVM.cs",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\VM\\HallVM.cs",
-              "RelativeToolTip": "Cineplex_Management\\VM\\HallVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T08:25:39.442Z"
             },
             {
               "$type": "Document",
@@ -675,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Program.cs",
               "RelativeDocumentMoniker": "Cineplex_Management\\Program.cs",
@@ -688,18 +700,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Cineplex_Management\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T19:05:08.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Shared\\_Layout.cshtml.css",
@@ -711,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\sahad\\Desktop\\Project Z\\Cineplex-management-app\\Cineplex_Management\\Views\\Movie\\Create.cshtml",
               "RelativeDocumentMoniker": "Cineplex_Management\\Views\\Movie\\Create.cshtml",

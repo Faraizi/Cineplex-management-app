@@ -26,7 +26,7 @@
             <div class="image-container">
                 <img src="@item.Image" alt="@item.MovieName" />
                 <div class="overlay-details">
-                    <a href="@Url.Action("Details", "Shows", new { id = item.MovieId })" class="overlay-text">👁 Details</a>
+                    <a href="@Url.Action("Details", "Movie", new { id = item.MovieId })" class="overlay-text">👁 Details</a>
                 </div>
             </div>
             <h5>@item.MovieName</h5>

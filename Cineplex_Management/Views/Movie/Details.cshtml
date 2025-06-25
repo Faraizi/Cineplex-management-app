@@ -1,0 +1,29 @@
+﻿@model Cineplex_Management.ViewModel.MovieDetailsVM
+
+<h2 class="text-center">Details Page</h2>
+<h2 class="text-center">Movie Name:@Model.MovieName</h2>
+<div>
+    <img src="@Model.Image" alt="Alternate Text" />
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Show Name</th>
+            <th>Start</th>
+            <th>End</th>
+            <th>Hall Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var show in Model.ShowDetails)
+        {
+            <tr>
+                <td>@show.ShowName</td>
+                <td>@show.ShowStart</td>
+                <td>@show.ShowEnd</td>
+                <td>@show.HallName</td>
+            </tr>
+        }
+    </tbody>
+</table>
